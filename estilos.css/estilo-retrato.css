@@ -1,9 +1,9 @@
 /* tela retratro portrait */
 
+
+
 body{
     background-image: url(../img/cev-portrait.jpg);
-    background-color: white;
-    background-repeat: no-repeat;
-    background-size: cover;
-    /* background-color: blueviolet; */
+    background-position: center bottom;
+
 }
