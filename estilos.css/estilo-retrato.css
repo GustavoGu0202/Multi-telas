@@ -1,5 +1,7 @@
 /* tela retratro portrait */
 
 body{
-    background-image: url(../img/cev-portrait.jpg);
+    /* background-image: url(../img/cev-portrait.jpg); */
+
+    background-color: blueviolet;
 }

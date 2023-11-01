@@ -1,5 +1,6 @@
 /* tela paisagem landscape */
 
 body{
-    background-image: url(../img/cev-landscape.jpg);
+    /* background-image: url(../img/cev-landscape.jpg); */
+    background-color: brown;
 }
